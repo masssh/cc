@@ -1,7 +1,7 @@
-cc: cc.c
+mcc: mcc.c
 
-test: cc
+test: mcc
 	./test.sh
 
 clean:
-	rm -f cc *.o tmp*
+	rm -f mcc *.o tmp*
