@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"cstdlib": "c",
+			"stdio.h": "c",
+			"cstdio": "c"
+		}
+	}
 }
